@@ -145,7 +145,7 @@ Comprehensive analysis of entity types, frequency patterns, and distribution acr
   author={Konstantinos Diamantopoulos},
   school={National and Kapodistrian University of Athens},
   year={2025},
-  url={https://github.com/yourusername/greek-pronoun-coreference-bias_master_thesis}
+  url={https://github.com/kdiamanto/greek-pronoun-coreference-bias_master_thesis}
 }
 ```
 
