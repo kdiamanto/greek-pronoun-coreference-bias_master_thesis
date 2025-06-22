@@ -153,7 +153,7 @@ Comprehensive analysis of entity types, frequency patterns, and distribution acr
 ```
 [1] K. Diamantopoulos, "Έμφυλες μεροληψίες στην ελληνική γλώσσα και μεγάλα γλωσσικά μοντέλα: H περίπτωση της επίλυσης αναφοράς αντωνυμιών," 
     Master's thesis, National and Kapodistrian University of Athens, 2025. [Online]. 
-    Available: https://github.com/yourusername/greek-pronoun-coreference-bias_master_thesis
+    Available: https://github.com/kdiamanto/greek-pronoun-coreference-bias_master_thesis
 ```
 
 ## 🔬 Future Research
