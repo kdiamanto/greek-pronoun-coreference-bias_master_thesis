@@ -33,8 +33,6 @@ greek-pronoun-coreference-bias_master_thesis/
 │   ├── Master_thesis.ipynb
 │   └── master_thesis_results_analysis.ipynb
 ├── README.md
-    ├── Master_thesis.ipynb
-    └── master_thesis_results_analysis.ipynb
 ```
 
 ## 🔬 Methodology
@@ -96,10 +94,11 @@ jupyter notebook "snippets for testing and analysis of Coreference Resolution/ma
 
 **Structure**:
 - `global_sentid`: Unique identifier (GREEK_COREF_0001 to GREEK_COREF_0906)
+- 'original_sentid': Unique formation based on syntactic position (0: first position, 1: second position/ μηχανικός.ένοικος.0.male.txt, μηχανικός.ένοικος.1.male.txt)
 - `sentence`: Greek sentence with pronoun ambiguity
 - `entity1`, `entity2`: Main clause entities
-- `pronoun`: Ambiguous pronoun in subordinate clause
-- `pronoun_gender`: Gender classification (male/female)
+- `pronoun`: Pronoun in subordinate clause
+- `pronoun_gender`: Gender classification of the pronouns (male/female)
 
 ### Entity Analysis
 **File**: `dataset and unique nouns/Greek_Unique_Nouns_Benchmark_entities.xlsx`
